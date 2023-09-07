@@ -14,7 +14,7 @@ public class naj {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		{
-			
+			qwdlwqndlkqmd;ld;lqk;ldkqw;ldkq'dq'dq'd'qd'qledl,x
 	}
 	}
 
